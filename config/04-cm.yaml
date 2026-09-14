@@ -9,7 +9,7 @@ data:
   index.html: |
     <html>
       <head>
-        <title>Cloud With VarJosh</title>
+        <title>Cloud With mahdi</title>
         <style>
           body {
             font-family: Arial, sans-serif;
@@ -34,7 +34,7 @@ data:
       </head>
       <body>
         <div class="box">
-          <h1>Welcome to Cloud With VarJosh!</h1>
+          <h1>Welcome to Cloud With mahdi!</h1>
           <p>Your happy place for Cloud & DevOps learning 🚀</p>
           <p>Build. Break. Learn. Repeat.</p>
         </div>
